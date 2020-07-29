@@ -5,7 +5,7 @@
 <title>Login</title>
 </head>
 <body>
-    <form name="login_rom" method="post" action="checkPermission.php">
+    <form name="login_rom" method="post" action="checkLogin.php">
         帳號:<input type="text" name="id"><br><br>
         密碼:<input type="password" name="pw"><br><br>
         <input type="submit" name="sub_btn" value="登入"/>
